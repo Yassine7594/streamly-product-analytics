@@ -124,6 +124,18 @@ streamly-product-analytics/
 
 **SQL · PostgreSQL · Data Analytics · Analyse produit · KPI · Modélisation relationnelle · Power BI · Data Visualization · GitHub**
 
+
+## Méthodologie et limites
+
+Les analyses de visionnage exploitent l'ensemble des événements disponibles dans le jeu de données.
+
+Les analyses d'abonnements utilisent, selon les indicateurs, une date de référence au 4 octobre 2026 ou l'historique complet. Les périodes d'observation peuvent donc différer d'un indicateur à l'autre.
+
+Quelques précautions d'interprétation :
+- Les données sont synthétiques et ne représentent pas une activité réelle.
+- Une date de fin non renseignée ne prouve pas à elle seule qu'un abonnement est actif.
+- Le ratio de visionnage est un indicateur estimatif basé sur la durée visionnée et la durée totale du contenu. Il ne constitue pas une mesure exacte de complétion.
+
 ---
 
 *Projet personnel réalisé dans le cadre du développement de compétences en Data Analytics et Product Analytics.*
